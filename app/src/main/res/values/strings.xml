@@ -9,7 +9,7 @@
 
     <string name="label_channel_name_hint">Doctor Name</string>
 
-    <string name="label_encryption_key_hint">Encryption key</string>
+    <string name="label_encryption_key_hint">Encryption key(Optional)</string>
 
     <string name="label_join">Join</string>
 
