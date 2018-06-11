@@ -30,7 +30,14 @@
                 android:gravity="center"
                 android:textColor="#ffffff"
                 />
-
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/note"
+                android:textSize="12sp"
+                android:textColor="#ffffff"
+                />
             <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
